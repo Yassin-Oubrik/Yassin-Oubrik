@@ -1,7 +1,8 @@
 <h1 align="center">Yassine Oubrik</h1>
 
 <p align="center">
-Full Stack Web Developer • React • Laravel • PHP • MySQL • MongoDB
+<strong>Full Stack Web Developer</strong><br>
+React • Laravel • PHP • MySQL • MongoDB
 </p>
 
 <p align="center">
@@ -9,97 +10,128 @@ Building modern web applications, learning new technologies and solving real-wor
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+•+Laravel+•+PHP;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Yassin-Oubrik?style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/github/stars/Yassin-Oubrik?style=for-the-badge&color=2563eb"/>
 </p>
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-- Development Digital Student at **OFPPT**
-- Passionate about Full Stack Web Development
-- Currently learning React, Laravel, Software Engineering and Clean Code
-- Building real-world projects to improve my technical skills
-- Interested in Web Development, Databases and Problem Solving
-- Open to Internship opportunities and Collaboration
+- 🎓 Development Digital Student at **OFPPT**
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Building modern web applications
+- 🌱 Currently learning React, Laravel and Software Engineering
+- 📚 Improving my problem-solving skills every day
+- 🤝 Open to Internship and Collaboration opportunities
 
 ---
 
-# Current Project
+# 🌍 Featured Project
 
 ## Morocco Tourism Platform
 
-Modern tourism web application designed to help visitors discover Morocco through destinations, cultural experiences and travel planning.
+A modern tourism platform that allows visitors to discover Morocco through destinations, travel planning and cultural experiences.
 
-### Main Features
+### Features
 
 - Explore Moroccan Cities
-- Discover Tourist Attractions
+- Tourist Attractions
 - Hotels & Accommodation
 - Restaurants & Local Food
 - Apprendre Hub
 - Responsive Design
-- Modern User Interface
+- Modern UI
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap"/>
+
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python"/>
+
 </p>
 
 ### Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,npm&theme=dark"/>
-</p>
 
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-Oubrik&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman"/>
 
 </p>
 
 ---
 
-# Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yassin-Oubrik&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yassin-Oubrik&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Publish Professional Projects
+- ✅ Master React & Laravel
+- ✅ Improve Data Structures & Algorithms
+- ✅ Earn Programming Certifications
+- ✅ Contribute to Open Source
+- ✅ Land a Full Stack Internship
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -135,36 +167,8 @@ Modern tourism web application designed to help visitors discover Morocco throug
 
 ---
 
-# 2026 Goals
-
-- Publish 10+ Professional Projects
-- Master React & Laravel
-- Improve Data Structures & Algorithms
-- Earn HackerRank Certifications
-- Solve 300+ Coding Challenges
-- Build an Outstanding Portfolio
-- Secure a Full Stack Internship
-
----
-
-# Current Roadmap
-
-| Project | Status |
-|----------|--------|
-| Morocco Tourism Platform | 🟢 In Progress |
-| Apprendre Hub | 🟡 Planned |
-| Stock Management System | 🟡 Planned |
-| E-Commerce Platform | 🟡 Planned |
-| Portfolio Website | 🟡 Planned |
-
----
-
-# Quote
-
-> **"Code. Learn. Build. Repeat."**
-
----
-
 <p align="center">
-Thanks for visiting my profile.
+
+<strong>Code • Learn • Build • Repeat</strong>
+
 </p>
