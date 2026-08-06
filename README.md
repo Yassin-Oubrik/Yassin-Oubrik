@@ -1,69 +1,81 @@
-<h1 align="center">Hi , I'm Yassine Oubrik</h1>
+<h1 align="center">Yassine Oubrik</h1>
 
-<h3 align="center">
+<p align="center">
 Full Stack Web Developer • React • Laravel • PHP • MySQL • MongoDB
-</h3>
-
-<p align="center">
-Passionate about building modern web applications, learning new technologies, and solving real-world problems.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+•+Laravel+•+PHP;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile!" />
+Building modern web applications, learning new technologies and solving real-world problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=0ea5e9"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;React+•+Laravel+•+PHP;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=2563eb"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 Development Digital Student at **OFPPT**
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning React, Laravel, Software Engineering and Clean Code
-- 🚀 Building real-world projects to improve my skills
-- 📚 Interested in Web Development, Databases and Problem Solving
-- 🤝 Open to Internship opportunities and Collaboration
+- Development Digital Student at **OFPPT**
+- Passionate about Full Stack Web Development
+- Currently learning React, Laravel, Software Engineering and Clean Code
+- Building real-world projects to improve my technical skills
+- Interested in Web Development, Databases and Problem Solving
+- Open to Internship opportunities and Collaboration
 
 ---
 
-# 🚀 Current Project
+# Current Project
 
-## 🌍 Morocco Tourism Platform
+## Morocco Tourism Platform
 
-A modern tourism web application that helps visitors discover Morocco through destinations, cultural experiences and travel planning.
+Modern tourism web application designed to help visitors discover Morocco through destinations, cultural experiences and travel planning.
 
 ### Main Features
 
-- 🗺️ Explore Moroccan Cities
-- 🏕️ Discover Tourist Attractions
-- 🏨 Hotels & Accommodation
-- 🍽️ Restaurants & Local Food
-- 📚 Apprendre Hub
-- 🌐 Responsive Design
-- ⚡ Modern User Interface
+- Explore Moroccan Cities
+- Discover Tourist Attractions
+- Hotels & Accommodation
+- Restaurants & Local Food
+- Apprendre Hub
+- Responsive Design
+- Modern User Interface
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
+
+### Frontend
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite"/>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+### Database
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+</p>
 
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,npm&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Statistics
 
 <p align="center">
 
@@ -79,9 +91,15 @@ A modern tourism web application that helps visitors discover Morocco through de
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -98,58 +116,55 @@ A modern tourism web application that helps visitors discover Morocco through de
 </a>
 
 <a href="https://instagram.com/yassine_oubrik">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="48"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48"/>
 </a>
 
 <a href="https://leetcode.com/u/USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/USERNAME">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="48"/>
 </a>
 
 <a href="https://www.codewars.com/users/USERNAME">
-<img src="https://cdn.simpleicons.org/codewars/B1361E" height="48"/>
+<img src="https://cdn.simpleicons.org/codewars/B1361E" width="48"/>
 </a>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- 🚀 Publish 10+ Professional Projects
-- 💻 Master React & Laravel
-- 🧩 Solve 300+ Coding Problems
-- 🏆 Earn HackerRank Certifications
-- 🌍 Contribute to Open Source
-- 💼 Secure a Full Stack Internship
+- Publish 10+ Professional Projects
+- Master React & Laravel
+- Improve Data Structures & Algorithms
+- Earn HackerRank Certifications
+- Solve 300+ Coding Challenges
+- Build an Outstanding Portfolio
+- Secure a Full Stack Internship
 
 ---
 
-# 📈 2026 Roadmap
+# Current Roadmap
 
-✅ Build Professional Portfolio
+| Project | Status |
+|----------|--------|
+| Morocco Tourism Platform | 🟢 In Progress |
+| Apprendre Hub | 🟡 Planned |
+| Stock Management System | 🟡 Planned |
+| E-Commerce Platform | 🟡 Planned |
+| Portfolio Website | 🟡 Planned |
 
-⬜ Complete Morocco Tourism Platform
+---
 
-⬜ Publish Apprendre Hub
+# Quote
 
-⬜ Publish Stock Management System
-
-⬜ Build E-Commerce Project
-
-⬜ Complete 300 LeetCode Problems
-
-⬜ Earn SQL & JavaScript Certificates
-
-⬜ Land My First Internship
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
+Thanks for visiting my profile.
 </p>
