@@ -1,98 +1,75 @@
-<h1 align="center">Hi 👋, I'm Yassine Oubrik</h1>
+<h1 align="center">Hi , I'm Yassine Oubrik</h1>
 
 <h3 align="center">
 Full Stack Web Developer • React • Laravel • PHP • MySQL • MongoDB
 </h3>
 
 <p align="center">
-Passionate about building modern web applications, solving real-world problems,
-and continuously improving my software engineering skills.
+Passionate about building modern web applications, learning new technologies, and solving real-world problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+•+Laravel+•+PHP;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile!" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=0ea5e9"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Development Digital Student at **OFPPT**
-
-💻 Passionate about Full Stack Web Development
-
-🚀 Building practical projects with modern technologies
-
-📚 Currently learning Software Engineering, Clean Code and Web Architecture
-
-🌱 Improving my skills every day through real projects and coding challenges
-
-🤝 Open to internships, collaboration and new opportunities
+- 🎓 Development Digital Student at **OFPPT**
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning React, Laravel, Software Engineering and Clean Code
+- 🚀 Building real-world projects to improve my skills
+- 📚 Interested in Web Development, Databases and Problem Solving
+- 🤝 Open to Internship opportunities and Collaboration
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Project
 
-### 🌍 Morocco Tourism Platform
+## 🌍 Morocco Tourism Platform
 
-A modern tourism platform designed to help visitors discover Morocco through interactive experiences, travel planning and cultural exploration.
+A modern tourism web application that helps visitors discover Morocco through destinations, cultural experiences and travel planning.
 
-### 📚 Apprendre Hub
+### Main Features
 
-An educational platform for learning Moroccan Darija and Amazigh (Tifinagh) with interactive lessons and quizzes.
-
-### 📦 Stock Management System
-
-Inventory management application built using MongoDB with CRUD operations and advanced database queries.
-
-### 🛒 E-Commerce Platform
-
-Responsive online shopping application developed with React and modern frontend technologies.
-
-### 🔐 Authentication API
-
-Secure authentication system using Laravel including Login, Register and JWT Authentication.
+- 🗺️ Explore Moroccan Cities
+- 🏕️ Discover Tourist Attractions
+- 🏨 Hotels & Accommodation
+- 🍽️ Restaurants & Local Food
+- 📚 Apprendre Hub
+- 🌐 Responsive Design
+- ⚡ Modern User Interface
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite"/>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=php,laravel,python"/>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,35 +83,73 @@ Secure authentication system using Laravel including Login, Register and JWT Aut
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-oubrik-8b2a7b3b3)
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yassinoubrik)
+<a href="mailto:yassinoubrik21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/USERNAME/)
+<a href="https://github.com/Yassin-Oubrik">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/USERNAME)
+<a href="https://www.linkedin.com/in/yassine-oubrik-8b2a7b3b3">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/USERNAME)
+<a href="https://instagram.com/yassine_oubrik">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="48"/>
+</a>
+
+<a href="https://leetcode.com/u/USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/USERNAME">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
+</a>
+
+<a href="https://www.codewars.com/users/USERNAME">
+<img src="https://cdn.simpleicons.org/codewars/B1361E" height="48"/>
+</a>
+
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build high-quality Full Stack projects
-- ✅ Master React & Laravel
-- ✅ Improve Data Structures & Algorithms
-- ✅ Earn HackerRank Certifications
-- ✅ Solve 300+ coding challenges
-- ✅ Contribute to Open Source projects
+- 🚀 Publish 10+ Professional Projects
+- 💻 Master React & Laravel
+- 🧩 Solve 300+ Coding Problems
+- 🏆 Earn HackerRank Certifications
+- 🌍 Contribute to Open Source
+- 💼 Secure a Full Stack Internship
 
 ---
 
-# 💡 Quote
+# 📈 2026 Roadmap
 
-> *"Great software is built one commit at a time."*
+✅ Build Professional Portfolio
+
+⬜ Complete Morocco Tourism Platform
+
+⬜ Publish Apprendre Hub
+
+⬜ Publish Stock Management System
+
+⬜ Build E-Commerce Project
+
+⬜ Complete 300 LeetCode Problems
+
+⬜ Earn SQL & JavaScript Certificates
+
+⬜ Land My First Internship
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, don't forget to leave a ⭐ on my repositories.
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
