@@ -1,8 +1,15 @@
 <div align="center">
 
-# Hi, I'm <span style="color:#3b82f6;">Yassine Oubrik</span> 👋
+<h1>Yassine Oubrik</h1>
 
-### Full Stack Web Developer
+<h3>Full Stack Web Developer</h3>
+
+<p>
+Building modern web applications with clean code and scalable solutions.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Laravel+%7C+PHP;Always+Learning+New+Technologies;Open+To+Internship+Opportunities" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Developer;Laravel+Developer;PHP+%7C+MySQL+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
