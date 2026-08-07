@@ -212,23 +212,27 @@ const yassine = {
 
 <h3>2026 Roadmap</h3>
 
-✅ Build Morocco Tourism Platform <br><br>
+<table>
 
-⬜ Publish Apprendre Hub <br><br>
+<tr><td>✅</td><td align="left">Build Morocco Tourism Platform</td></tr>
 
-⬜ Publish Stock Management System <br><br>
+<tr><td>⬜</td><td align="left">Publish Apprendre Hub</td></tr>
 
-⬜ Build Portfolio Website <br><br>
+<tr><td>⬜</td><td align="left">Publish Stock Management System</td></tr>
 
-⬜ Solve 300+ LeetCode Problems <br><br>
+<tr><td>⬜</td><td align="left">Build Portfolio Website</td></tr>
 
-⬜ Earn HackerRank SQL Certificate <br><br>
+<tr><td>⬜</td><td align="left">Solve 300+ LeetCode Problems</td></tr>
 
-⬜ Earn HackerRank JavaScript Certificate <br><br>
+<tr><td>⬜</td><td align="left">Earn HackerRank SQL Certificate</td></tr>
 
-⬜ Contribute to Open Source <br><br>
+<tr><td>⬜</td><td align="left">Earn HackerRank JavaScript Certificate</td></tr>
 
-⬜ Land a Full Stack Internship
+<tr><td>⬜</td><td align="left">Contribute to Open Source</td></tr>
+
+<tr><td>⬜</td><td align="left">Land a Full Stack Internship</td></tr>
+
+</table>
 
 </div>
 ---
