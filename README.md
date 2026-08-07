@@ -98,20 +98,42 @@ const yassine = {
 
 <div align="center">
 
-## 🌍 Morocco Tourism Platform
+┌───────────────────────────────────────────────┐
 
-Modern tourism platform designed to help visitors discover Morocco.
+            Morocco Tourism Platform
 
-| Features | |
-|----------|----------|
-| 🗺️ Explore Cities | ✔ |
-| 🏨 Hotels | ✔ |
-| 🍽️ Restaurants | ✔ |
-| ✈️ Travel Planning | ✔ |
-| 📚 Apprendre Hub | ✔ |
-| 📱 Responsive Design | ✔ |
+Modern tourism platform designed to help visitors
+discover Morocco.
 
-> 🚧 **Status:** In Development
+───────────────────────────────────────────────
+
+Features
+
+• Explore Moroccan Cities
+
+• Hotels & Accommodation
+
+• Restaurants
+
+• Travel Planning
+
+• Apprendre Hub
+
+• Responsive Design
+
+───────────────────────────────────────────────
+
+Tech Stack
+
+React • Laravel • MySQL • MongoDB
+
+───────────────────────────────────────────────
+
+Status
+
+██████████░░░░░░  In Development
+
+└───────────────────────────────────────────────┘
 
 </div>
 
