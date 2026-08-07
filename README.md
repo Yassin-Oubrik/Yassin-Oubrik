@@ -43,67 +43,126 @@ const yassine = {
 
 # ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
+
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind"/>
 
 <br><br>
 
+### Backend
+
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,gitlab,vscode"/>
+### Database
 
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
----
+<br><br>
 
-# 🚀 Current Project
+### Tools
 
-<div align="center">
-
-## 🌍 Morocco Tourism Platform
-
-Modern Tourism Platform built with React.
-
-✔ Explore Cities
-
-✔ Hotels
-
-✔ Restaurants
-
-✔ Travel Planning
-
-✔ Apprendre Hub
-
-✔ Responsive Design
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Project
 
-<p align="center">
+<div align="center">
+
+## 🌍 Morocco Tourism Platform
+
+Modern tourism platform designed to help visitors discover Morocco.
+
+| Features | |
+|----------|----------|
+| 🗺️ Explore Cities | ✔ |
+| 🏨 Hotels | ✔ |
+| 🍽️ Restaurants | ✔ |
+| ✈️ Travel Planning | ✔ |
+| 📚 Apprendre Hub | ✔ |
+| 📱 Responsive Design | ✔ |
+
+> 🚧 **Status:** In Development
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=Yassin-Oubrik&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Yassin-Oubrik&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yassin-Oubrik&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codewars.com/users/USERNAME">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
+
+</div>
+
+> Replace `USERNAME` with your usernames after creating your accounts.
+
+---
+
+# 📈 2026 Roadmap
+
+- ✅ Build Morocco Tourism Platform
+- ⬜ Publish Apprendre Hub
+- ⬜ Publish Stock Management System
+- ⬜ Build Portfolio Website
+- ⬜ Solve 300+ LeetCode Problems
+- ⬜ Earn HackerRank SQL Certificate
+- ⬜ Earn HackerRank JavaScript Certificate
+- ⬜ Contribute to Open Source
+- ⬜ Land a Full Stack Internship
 
 ---
 
 # 🌐 Connect
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:yassinoubrik21@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -121,14 +180,16 @@ Modern Tourism Platform built with React.
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💬 *"Code • Learn • Build • Repeat"*
+### 💬 Quote
 
-⭐ Thanks for visiting my profile ⭐
+> **"Code • Learn • Build • Repeat."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
