@@ -54,7 +54,12 @@ const yassine = {
 
 ---
 
-# ⚡ Tech Stack
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:161B22,50:1F6FEB,100:58A6FF&text=Tech%20Stack&fontColor=F0F6FC&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -84,7 +89,12 @@ const yassine = {
 
 ---
 
-# 🚀 Featured Project
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:0EA5E9,100:38BDF8&text=Featured%20Project&fontColor=F0F6FC&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -107,7 +117,12 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 ---
 
-# 📊 GitHub Analytics
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:111827,50:2563EB,100:3B82F6&text=GitHub%20Analytics&fontColor=F0F6FC&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -127,7 +142,12 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 ---
 
-# 🏆 GitHub Achievements
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1E293B,50:4338CA,100:6366F1&text=GitHub%20Achievements&fontColor=F0F6FC&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -137,7 +157,12 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 ---
 
-# 💻 Coding Profiles
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:451A03,50:D97706,100:F59E0B&text=Coding%20Profiles&fontColor=FFFFFF&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -173,7 +198,12 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 ---
 
-# 🌐 Connect
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:052E16,50:15803D,100:22C55E&text=Connect&fontColor=FFFFFF&fontSize=34"/>
+
+</div>
+<hr>
 
 <div align="center">
 
@@ -204,5 +234,10 @@ Modern tourism platform designed to help visitors discover Morocco.
 > **"Code • Learn • Build • Repeat."**
 
 ⭐ Thanks for visiting my profile!
+
+</div>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF"/>
 
 </div>
