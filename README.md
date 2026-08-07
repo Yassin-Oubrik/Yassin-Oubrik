@@ -140,20 +140,7 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 </div>
 
----
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1E293B,50:4338CA,100:6366F1&text=GitHub%20Achievements&fontColor=F0F6FC&fontSize=34"/>
-
-</div>
-<hr>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yassin-Oubrik&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
 
 ---
 
