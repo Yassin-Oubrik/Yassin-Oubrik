@@ -1,49 +1,75 @@
 <div align="center">
 
-# Hi, I'm <span style="color:#3b82f6;">Yassine Oubrik</span> 👋
+# Yassine Oubrik
 
 ### Full Stack Web Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Developer;Laravel+Developer;PHP+%7C+MySQL+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+Building modern web applications with clean architecture, scalable solutions and modern technologies.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Developer;Laravel+Developer;PHP+Developer;Always+Learning+New+Technologies;Building+Real+World+Projects" />
 
 <br>
 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Yassin-Oubrik&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ◆ About Me
 
-<img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img align="right" width="330" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 ```javascript
 const yassine = {
+
     education: "Development Digital @ OFPPT",
-    location: "Morocco 🇲🇦",
+
+    location: "Morocco",
+
     role: "Full Stack Web Developer",
-    frontend: ["React","JavaScript","TypeScript"],
-    backend: ["PHP","Laravel","Python"],
-    database: ["MySQL","MongoDB"],
+
+    frontend: [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS"
+    ],
+
+    backend: [
+        "PHP",
+        "Laravel",
+        "Python"
+    ],
+
+    database: [
+        "MySQL",
+        "MongoDB"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "VS Code",
+        "Postman"
+    ],
+
     currentlyLearning: [
         "Software Engineering",
         "Clean Code",
         "System Design"
     ],
-    lookingFor: "Internship"
+
+    lookingFor: "Full Stack Internship"
+
 }
 ```
 
 ---
 
----
-
-# ⚡ Tech Stack
+# ◆ Tech Stack
 
 <div align="center">
 
@@ -73,113 +99,149 @@ const yassine = {
 
 ---
 
-# 🚀 Featured Project
+# ◆ Featured Project
 
 <div align="center">
 
-## 🌍 Morocco Tourism Platform
+## Morocco Tourism Platform
 
-Modern tourism platform designed to help visitors discover Morocco.
+Modern tourism platform helping visitors discover Morocco through an interactive experience.
 
-| Features | |
-|----------|----------|
-| 🗺️ Explore Cities | ✔ |
-| 🏨 Hotels | ✔ |
-| 🍽️ Restaurants | ✔ |
-| ✈️ Travel Planning | ✔ |
-| 📚 Apprendre Hub | ✔ |
-| 📱 Responsive Design | ✔ |
+| Feature | Status |
+|:----------------------------|:------:|
+| Explore Moroccan Cities | ✔ |
+| Hotels & Accommodation | ✔ |
+| Restaurants | ✔ |
+| Travel Planning | ✔ |
+| Apprendre Hub | ✔ |
+| Responsive Design | ✔ |
 
-> 🚧 **Status:** In Development
+**Project Status**
+
+> 🚧 Currently In Development
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# ◆ GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Yassin-Oubrik&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Yassin-Oubrik&theme=github-dark-blue&hide_border=true"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yassin-Oubrik&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# ◆ GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yassin-Oubrik&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yassin-Oubrik&theme=algolia&no-frame=true&column=4&margin-w=15"/>
 
 </div>
 
 ---
 
-# 💻 Coding Profiles
+# ◆ Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/USERNAME/">
+
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
 </a>
+
+&nbsp;
 
 <a href="https://www.hackerrank.com/profile/USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
 </a>
 
+&nbsp;
+
 <a href="https://www.codewars.com/users/USERNAME">
+
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+
 </a>
 
 </div>
 
-> Replace `USERNAME` with your usernames after creating your accounts.
+> Replace **USERNAME** with your account usernames.
 
 ---
 
-# 📈 2026 Roadmap
+# ◆ 2026 Roadmap
 
-- ✅ Build Morocco Tourism Platform
-- ⬜ Publish Apprendre Hub
-- ⬜ Publish Stock Management System
-- ⬜ Build Portfolio Website
-- ⬜ Solve 300+ LeetCode Problems
-- ⬜ Earn HackerRank SQL Certificate
-- ⬜ Earn HackerRank JavaScript Certificate
-- ⬜ Contribute to Open Source
-- ⬜ Land a Full Stack Internship
+```text
+[✔] Morocco Tourism Platform
+
+[ ] Apprendre Hub
+
+[ ] Stock Management System
+
+[ ] Portfolio Website
+
+[ ] Solve 300+ LeetCode Problems
+
+[ ] Earn HackerRank SQL Certificate
+
+[ ] Earn HackerRank JavaScript Certificate
+
+[ ] Contribute to Open Source
+
+[ ] Full Stack Internship
+```
 
 ---
 
-# 🌐 Connect
+# ◆ Connect
 
 <div align="center">
 
 <a href="mailto:yassinoubrik21@gmail.com">
+
 <img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Yassin-Oubrik">
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/yassine-oubrik-8b2a7b3b3">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://instagram.com/yassine_oubrik">
+
 <img src="https://skillicons.dev/icons?i=instagram"/>
+
 </a>
 
 </div>
@@ -188,10 +250,10 @@ Modern tourism platform designed to help visitors discover Morocco.
 
 <div align="center">
 
-### 💬 Quote
+## Code • Learn • Build • Repeat
 
-> **"Code • Learn • Build • Repeat."**
+*"Great software is built one commit at a time."*
 
-⭐ Thanks for visiting my profile!
+Thank you for visiting my profile.
 
 </div>
