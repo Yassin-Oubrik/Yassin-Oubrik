@@ -97,19 +97,66 @@ const yassine = {
 <hr>
 
 <div align="center">
-🌍 Morocco Tourism Platform
+## Morocco Tourism Platform
 
-Modern tourism platform designed to help visitors discover Morocco.
+> *Modern tourism platform designed to help visitors discover Morocco through a seamless digital experience.*
 
-Features	
-🗺️ Explore Cities	✔
-🏨 Hotels	✔
-🍽️ Restaurants	✔
-✈️ Travel Planning	✔
-📚 Apprendre Hub	✔
-📱 Responsive Design	✔
+<br>
 
-🚧 Status: In Development
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Explore+Cities;Find+Hotels+%26+Restaurants;Plan+Your+Journey;Learn+Darija+with+Apprendre+Hub;Responsive+User+Experience"/>
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+<th width="350">Module</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Explore Moroccan Cities</td>
+<td>🟢</td>
+</tr>
+
+<tr>
+<td>Hotels & Accommodation</td>
+<td>🟢</td>
+</tr>
+
+<tr>
+<td>Restaurants & Local Cuisine</td>
+<td>🟢</td>
+</tr>
+
+<tr>
+<td>Travel Planning</td>
+<td>🟢</td>
+</tr>
+
+<tr>
+<td>Apprendre Hub</td>
+<td>🟢</td>
+</tr>
+
+<tr>
+<td>Responsive Design</td>
+<td>🟢</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Project-In%20Development-2563EB?style=for-the-badge"/>
+
+</div>
 
 </div>
 
