@@ -154,7 +154,7 @@ const yassine = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Project-In%20Development-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-2563EB?style=for-the-badge"/>
 
 </div>
 
