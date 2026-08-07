@@ -191,7 +191,7 @@ const yassine = {
 
 <div align="center">
 
-<a href="https://leetcode.com/u/yassine-oubrik/" target="_blank">
+<a href="https://leetcode.com/u/yassine_oubrik/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
