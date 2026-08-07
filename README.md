@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 ```javascript
 const yassine = {
     education: "Development Digital @ OFPPT",
