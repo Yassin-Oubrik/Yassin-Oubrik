@@ -208,19 +208,33 @@ const yassine = {
 > Replace `USERNAME` with your usernames after creating your accounts.
 
 ---
+<div align="center">
 
-# 📈 2026 Roadmap
+<h3>2026 Roadmap</h3>
 
-- ✅ Build Morocco Tourism Platform
-- ⬜ Publish Apprendre Hub
-- ⬜ Publish Stock Management System
-- ⬜ Build Portfolio Website
-- ⬜ Solve 300+ LeetCode Problems
-- ⬜ Earn HackerRank SQL Certificate
-- ⬜ Earn HackerRank JavaScript Certificate
-- ⬜ Contribute to Open Source
-- ⬜ Land a Full Stack Internship
+<table>
 
+<tr><td>✅</td><td align="left">Build Morocco Tourism Platform</td></tr>
+
+<tr><td>⬜</td><td align="left">Publish Apprendre Hub</td></tr>
+
+<tr><td>⬜</td><td align="left">Publish Stock Management System</td></tr>
+
+<tr><td>⬜</td><td align="left">Build Portfolio Website</td></tr>
+
+<tr><td>⬜</td><td align="left">Solve 300+ LeetCode Problems</td></tr>
+
+<tr><td>⬜</td><td align="left">Earn HackerRank SQL Certificate</td></tr>
+
+<tr><td>⬜</td><td align="left">Earn HackerRank JavaScript Certificate</td></tr>
+
+<tr><td>⬜</td><td align="left">Contribute to Open Source</td></tr>
+
+<tr><td>⬜</td><td align="left">Land a Full Stack Internship</td></tr>
+
+</table>
+
+</div>
 ---
 
 <div align="center">
