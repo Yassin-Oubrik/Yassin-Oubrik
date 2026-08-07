@@ -21,6 +21,7 @@
 # 👨‍💻 About Me
 
 <img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+
 ```javascript
 const yassine = {
     education: "Development Digital @ OFPPT",
