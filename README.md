@@ -169,11 +169,7 @@ const yassine = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yassin-Oubrik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin-Oubrik&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
+<br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Yassin-Oubrik&theme=tokyonight&hide_border=true"/>
 
