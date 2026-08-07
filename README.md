@@ -25,7 +25,13 @@ Building modern web applications with clean code and scalable solutions.
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,50:161B22,100:1F6FEB&text=About%20Me&fontColor=F0F6FC&fontSize=34&fontAlign=50&fontAlignY=38"/>
+
+</div>
+
+<hr>
 
 <img align="right" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
